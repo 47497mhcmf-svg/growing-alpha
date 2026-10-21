@@ -3,7 +3,7 @@
   "version": "1.0",
   "build": "8",
   "ipa": "growing-1.0-8.ipa",
-  "manifest": "manifest-1.0-8.plist",
+  "manifest": "manifest-1.0-8.xml",
   "sha256": "ed5eba55fcc405dcd95a7d16bc34efdbf3888a1aaedee9a2565138d1f0359228",
   "cloudKitEnvironment": "Production"
 }
