@@ -1,9 +1,9 @@
 {
   "previewOnly": false,
   "version": "1.0",
-  "build": "35",
-  "ipa": "growing-1.0-35.ipa",
-  "manifest": "manifest-1.0-35.xml",
-  "sha256": "8d608586545682cfa5b5fe9e593f01aa9394236a941e3f78abf90284c96373cd",
+  "build": "36",
+  "ipa": "growing-1.0-36.ipa",
+  "manifest": "manifest-1.0-36.xml",
+  "sha256": "d5dc288b90b65ff87a8e524995701aa4799107e45717655f15ec8b63d78d38cd",
   "cloudKitEnvironment": "Production"
 }
