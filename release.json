@@ -1,10 +1,10 @@
 {
   "previewOnly": false,
   "version": "1.0",
-  "build": "50",
-  "ipa": "growing-1.0-50.ipa",
-  "manifest": "manifest-1.0-50.xml",
-  "sha256": "ced7f90f8aa585100e9e901a7c5fe6344e7fd7b8f075084bf90039ea16b1c0e7",
+  "build": "52",
+  "ipa": "growing-1.0-52.ipa",
+  "manifest": "manifest-1.0-52.xml",
+  "sha256": "73781d503174fe08eca04328f3ad042d064e17dcd5a9df95a2ec6046efa0ff74",
   "backend": "supabase",
   "cloudKitEnvironment": null
 }
